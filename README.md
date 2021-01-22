@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/suromario/micro-bit-reaction-game** and import
 
-## Edit this project ![Odznak stavu sestavení](https://github.com/suromario/micro-bit-reaction-game/workflows/MakeCode/badge.svg)
+## Edit this project
 
 To edit this repository in MakeCode.
 
@@ -22,8 +22,6 @@ To edit this repository in MakeCode.
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
-
-![Vykreslený náhled bloků](https://github.com/suromario/micro-bit-reaction-game/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
